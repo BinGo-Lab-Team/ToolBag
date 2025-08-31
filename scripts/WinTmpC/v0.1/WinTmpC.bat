@@ -1,6 +1,6 @@
 @echo off
 title Windows Temp Cleaner
-echo    Windows 临时文件清理工具
+echo    WinTmpC - 临时文件清理工具
 echo ================================
 echo.
 
