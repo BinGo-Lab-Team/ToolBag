@@ -30,9 +30,9 @@
 
 ## 🚀 快速开始
 ```bash
-git clone https://github.com/YanAnghelp/toolbag.git
+git clone https://github.com/BinGo-Lab-Team/ToolBag.git
 
-cd toolbag
+cd ToolBag
 ```
 每个工具拥有单独的文件夹，工具的根目录必定有一个 **README.md** 的说明书
 <br><br>
