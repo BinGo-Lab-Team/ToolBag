@@ -30,9 +30,9 @@ You can choose to submit *Pull requests* or contact us
 
 ## 🚀 Quick Start
 ```bash
-git clone https://github.com/YanAnghelp/toolbag.git
+git clone https://github.com/BinGo-Lab-Team/ToolBag.git
 
-cd toolbag
+cd ToolBag
 ```
 Each tool has its own folder, and the root directory of the tool must have an instruction manual named "**README.md**"
 <br><br>
