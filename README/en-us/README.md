@@ -58,6 +58,6 @@ Each tool has its own folder, and the root of that folder always contains a **RE
 ### Scripts
 | Name   | Description | Manual |
 |:--------|:-------------|:-----:|
-| [SPath+](../../scripts/SPath+/v0.1/SPath+.bat) | Add directory to **System Variable - PATH** | [Doc](../../scripts/SPath+/README.md) |
-| [WinTmpC](../../scripts/WinTmpC/v0.1/WinTmpC.bat) | Clean up Windows temporary files | [Doc](../../scripts/WinTmpC/README.md) |
-| [ReICON](../../scripts/ReICON/v1.1/ReICON.bat) | Rebuild icon & thumbnail cache, fix broken icons | [Doc](../../scripts/ReICON/README.md) |
+| [SPath+](../../scripts/SPath+/v0.1/SPath+.en.bat) | Add directory to **System Variable - PATH** | [Doc](../../scripts/SPath+/README.en.md) |
+| [WinTmpC](../../scripts/WinTmpC/v0.1/WinTmpC.en.bat) | Clean up Windows temporary files | [Doc](../../scripts/WinTmpC/README.en.md) |
+| [ReICON](../../scripts/ReICON/v1.1/ReICON.en.bat) | Rebuild icon & thumbnail cache, fix broken icons | [Doc](../../scripts/ReICON/README.en.md) |
