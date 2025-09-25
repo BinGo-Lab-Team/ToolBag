@@ -1,32 +1,47 @@
 # ToolBag
-[简体中文](../../README.md) | [English](../en-us/README.md)
+[简体中文](../../README.md) | [English](../../README/en-us/README.md)
 
-This project aims to collect some useful small tools<br>
-For instance, scripts, code snippets, small programs, documents, etc., some of which were written by myself<br>
-It should help you avoid falling into some traps... ?<br>
-<br>
+This project aims to collect some handy little tools.
+
+For example: scripts, code snippets, small programs, documents, etc. Some are written by myself.  
+
+Hopefully, it will help you avoid a few pitfalls...?
+
+
+
 
 ## ✨ Features
-- 🛠️ Various practical scripts (batch processing, PowerShell, Python, C++, etc.)
-- 📦 Out of the box, minimize usage difficulties
-- 📝 Each tool comes with an instruction manual
-- 📖 Completely open source and licensed under the **GPL-3.0** license
-- 💡 Help each other. Welcome to raise *Issues* and *Pull requests*
-<br><br>
+- 🛠️ Various practical scripts (Batch, PowerShell, Python, C++ …)
 
-## 📜 协议
-This project is based on the [**GPL-3.0**](../../LICENSE) license
+- 📦 Ready to use, minimizing usage difficulties
 
-## ⭐ Contribute & Support
-If you really need a certain tool/code/documentation, etc., please submit *Issues* or contact us. We will consider developing or collecting them. Please be sure to submit good ideas!
-<br><br>
-If you want to add the tools/codes/documents you have developed and collected, we would be very welcome. However, please ensure that the content is compliant and adheres to **GPL-3.0** license<br>
-You can choose to submit *Pull requests* or contact us
+- 📝 Each tool comes with usage instructions
 
-### Contact information
- - 📧 Email: BINGO-COMPUTER@outlook.com  
- - 🏷️ Author: BinGo Lab / YanAnghelp
-<br><br>
+- 📖 Fully open-source, under the **MIT License**
+
+- 💡 Mutual support — Issues and Pull requests are welcome
+
+
+
+## 📜 License
+This project is open-sourced under the [**MIT License**](../../LICENSE), Please use it in compliance with this license.
+
+
+
+## ⭐ Contribution & Support
+If you are in need of a certain tool/code/document, please submit an *Issue* or contact us — we will consider developing or collecting it. Good ideas are highly encouraged!  
+
+If you would like to add your own developed or collected **tools/codes/documents**, we warmly welcome your contribution. Please ensure that the content is compliant and respects relevant licenses.  
+
+You can either submit a *Pull request* or contact us.
+
+
+
+### Contact
+- 📧 Email: BINGO-COMPUTER@outlook.com  
+- 🏷️ Author: BinGo Lab / YanAnghelp  
+
+
 
 ## 🚀 Quick Start
 ```bash
@@ -34,16 +49,15 @@ git clone https://github.com/BinGo-Lab-Team/ToolBag.git
 
 cd ToolBag
 ```
-Each tool has its own folder, and the root directory of the tool must have an instruction manual named "**README.md**"
-<br><br>
 
-## 🧰 Directory
+Each tool has its own folder, and the root of that folder always contains a **README.md** manual.
+
+
+
+## 🧰 Catalog
 ### Scripts
-| Tool   | Description | Docs |
-|:--------|:-------------|:------:|
-| [SPath+](../../scripts/SPath+/v0.1/SPath+.en.bat) | Add the input directory to the **SYSTEM Variable-PATH** | [Instruction Manual](../../scripts/SPath+/README.en.md) |
-| [WinTmpC](../../scripts/WinTmpC/v0.1/WinTmpC.en.bat) | Clear Windows temporary files | [Instruction Manual](../../scripts/WinTmpC/README.en.md) |
-| [ReICON](../../scripts/ReICON/v1.1/ReICON.en.bat) | Rebuild Windows icon & thumbnail cache, fix incorrect ICONS | [Instruction Manual](../../scripts/ReICON/README.en.md) |
-
-## Note
-This docs is *Machine translation*. If there are any inaccuracies, please submit an *issue*, thank you!
+| Name   | Description | Manual |
+|:--------|:-------------|:-----:|
+| [SPath+](../../scripts/SPath+/v0.1/SPath+.bat) | Add directory to **System Variable - PATH** | [Doc](../../scripts/SPath+/README.md) |
+| [WinTmpC](../../scripts/WinTmpC/v0.1/WinTmpC.bat) | Clean up Windows temporary files | [Doc](../../scripts/WinTmpC/README.md) |
+| [ReICON](../../scripts/ReICON/v1.1/ReICON.bat) | Rebuild icon & thumbnail cache, fix broken icons | [Doc](../../scripts/ReICON/README.md) |
